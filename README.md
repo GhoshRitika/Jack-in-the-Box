@@ -1,6 +1,6 @@
 # Jack-in-the-Box
 
-![Animation of Jack/Dice in a Box](https://user-images.githubusercontent.com/60728026/208178932-50984961-2988-4fab-b0ee-a10eeda87e9f.mp4)
+https://user-images.githubusercontent.com/60728026/208178932-50984961-2988-4fab-b0ee-a10eeda87e9f.mp4
 
 ## Description:
 There are 2 bodies, a dice and a box, with 6 degrees of freedom and is planar. The dice is inside the box and the box is moved by external force. This causes the dice to bounce inside the box. The figure below shows the frames of the bodies w.r.t world.
